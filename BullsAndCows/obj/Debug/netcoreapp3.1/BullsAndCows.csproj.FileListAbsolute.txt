@@ -1,0 +1,39 @@
+C:\Users\rkisleva\source\repos\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.exe
+C:\Users\rkisleva\source\repos\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.deps.json
+C:\Users\rkisleva\source\repos\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.runtimeconfig.json
+C:\Users\rkisleva\source\repos\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.runtimeconfig.dev.json
+C:\Users\rkisleva\source\repos\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.dll
+C:\Users\rkisleva\source\repos\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.pdb
+C:\Users\rkisleva\source\repos\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.AssemblyInfoInputs.cache
+C:\Users\rkisleva\source\repos\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.AssemblyInfo.cs
+C:\Users\rkisleva\source\repos\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.csproj.CoreCompileInputs.cache
+C:\Users\rkisleva\source\repos\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.dll
+C:\Users\rkisleva\source\repos\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.pdb
+C:\Users\rkisleva\source\repos\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.genruntimeconfig.cache
+C:\Users\rkisleva\source\repos\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.csprojAssemblyReference.cache
+C:\Users\rkisleva\source\repos\Bulls and Cows - 3-digit number\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.exe
+C:\Users\rkisleva\source\repos\Bulls and Cows - 3-digit number\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.deps.json
+C:\Users\rkisleva\source\repos\Bulls and Cows - 3-digit number\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.runtimeconfig.json
+C:\Users\rkisleva\source\repos\Bulls and Cows - 3-digit number\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.runtimeconfig.dev.json
+C:\Users\rkisleva\source\repos\Bulls and Cows - 3-digit number\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.dll
+C:\Users\rkisleva\source\repos\Bulls and Cows - 3-digit number\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.pdb
+C:\Users\rkisleva\source\repos\Bulls and Cows - 3-digit number\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.csprojAssemblyReference.cache
+C:\Users\rkisleva\source\repos\Bulls and Cows - 3-digit number\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.AssemblyInfoInputs.cache
+C:\Users\rkisleva\source\repos\Bulls and Cows - 3-digit number\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.AssemblyInfo.cs
+C:\Users\rkisleva\source\repos\Bulls and Cows - 3-digit number\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.csproj.CoreCompileInputs.cache
+C:\Users\rkisleva\source\repos\Bulls and Cows - 3-digit number\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.dll
+C:\Users\rkisleva\source\repos\Bulls and Cows - 3-digit number\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.pdb
+C:\Users\rkisleva\source\repos\Bulls and Cows - 3-digit number\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.genruntimeconfig.cache
+C:\Users\rkisleva\source\repos\Bulls and Cows - complete\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.exe
+C:\Users\rkisleva\source\repos\Bulls and Cows - complete\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.deps.json
+C:\Users\rkisleva\source\repos\Bulls and Cows - complete\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.runtimeconfig.json
+C:\Users\rkisleva\source\repos\Bulls and Cows - complete\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.runtimeconfig.dev.json
+C:\Users\rkisleva\source\repos\Bulls and Cows - complete\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.dll
+C:\Users\rkisleva\source\repos\Bulls and Cows - complete\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.pdb
+C:\Users\rkisleva\source\repos\Bulls and Cows - complete\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.csprojAssemblyReference.cache
+C:\Users\rkisleva\source\repos\Bulls and Cows - complete\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.AssemblyInfoInputs.cache
+C:\Users\rkisleva\source\repos\Bulls and Cows - complete\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.AssemblyInfo.cs
+C:\Users\rkisleva\source\repos\Bulls and Cows - complete\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.csproj.CoreCompileInputs.cache
+C:\Users\rkisleva\source\repos\Bulls and Cows - complete\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.dll
+C:\Users\rkisleva\source\repos\Bulls and Cows - complete\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.pdb
+C:\Users\rkisleva\source\repos\Bulls and Cows - complete\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.genruntimeconfig.cache
